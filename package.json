@@ -1,0 +1,13 @@
+{
+  "name": "challenge10-logogenerator",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "commonjs": "^0.0.1",
+    "inquirer": "^8.2.4",
+    "svg": "^0.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
